@@ -1,0 +1,20 @@
+
+# Template ASCII pour dessins
+# Utilisez ce fichier pour créer et modifier des dessins ASCII
+
+## Boîtes
+-------------------------
+|                       |
+|  [Votre texte ici]    |
+|                       |
+-------------------------
+
+## Flèches
+---> Direction droite
+<--- Direction gauche
+
+## Formes géométriques
+   /\   
+  /  \  
+ /____\ 
+
